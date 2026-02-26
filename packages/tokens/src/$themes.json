@@ -1,0 +1,13 @@
+{
+  "Mode 1": {
+    "collection-1": {
+      "$value": "tokens/collection-1-mode-1.json"
+    },
+    "typography": {
+      "$value": "typography/typography-styles.json"
+    },
+    "shadows": {
+      "$value": "shadows/shadow-styles.json"
+    }
+  }
+}
