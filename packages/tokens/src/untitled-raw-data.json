@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "lastModified": "2026-02-26T21:59:41.079Z",
+  "figmaFileKey": "unknown",
+  "figmaFileName": "Untitled",
+  "collections": [
+    {
+      "id": "VariableCollectionId:1:2",
+      "name": "Collection 1",
+      "hiddenFromPublishing": false,
+      "defaultModeId": "1:0",
+      "modes": [
+        {
+          "name": "Mode 1",
+          "modeId": "1:0"
+        }
+      ],
+      "remote": false,
+      "variableIds": [
+        "VariableID:1:3"
+      ],
+      "variables": [
+        {
+          "id": "VariableID:1:3",
+          "name": "Size",
+          "description": "",
+          "resolvedType": "FLOAT",
+          "valuesByMode": {
+            "1:0": 3
+          },
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "hiddenFromPublishing": false,
+          "variableCollectionId": "VariableCollectionId:1:2"
+        }
+      ]
+    }
+  ]
+}
