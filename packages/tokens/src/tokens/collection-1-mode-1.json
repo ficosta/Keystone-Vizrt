@@ -1,0 +1,17 @@
+{
+  "size": {
+    "$value": 3,
+    "$type": "dimension",
+    "$extensions": {
+      "com.figma": {
+        "id": "VariableID:1:3",
+        "variableCollectionId": "VariableCollectionId:1:2",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "hiddenFromPublishing": false,
+        "resolvedType": "FLOAT"
+      }
+    }
+  }
+}
